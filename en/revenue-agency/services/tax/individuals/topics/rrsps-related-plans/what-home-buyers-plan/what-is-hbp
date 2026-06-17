@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "[What is HBP]"
+title: "What is the Home Buyers’ Plan (HBP)"
 description: ""
 subject: ""
 keywords: ""
@@ -23,12 +23,14 @@ breadcrumbs: # By default the Canada.ca crumbs is already set
   - title: "The Home Buyers' Plan"
     link: "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/what-home-buyers-plan.html"
 feedbackData:
-  section: "[What is HBP]"
+  section: "What is the Home Buyers’ Plan (HBP)"
 notedlinks:
-  - title: "[What is HBP]"
+  - title: "What is the Home Buyers’ Plan (HBP)"
     link: "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/what-home-buyers-plan/what-is-hbp"
   - title: "Repository sitemap"
     link: "https://cra-proto.github.io/annes-project-2026/index.html"
 ---
 
 <!-- Add your content here -->
+
+<h1>What is the Home Buyers’ Plan (HBP)</h1>
